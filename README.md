@@ -1,2 +1,2 @@
 # Exploratoria
-"Exploratoria" is an educational retro game made by a group of 3 high schoolers to compete in the Technology Student Association.
+Exploratoria is a 2D top-down experience that takes inspiration from museums to provide an enjoyable learning experience. Through the use of a 16-bit art style, we incorporated the feeling of playing an actual arcade machine into a modern game. The end goal of the project was to educate the player in a compelling manner. The code for the game was built around the level movement script which keeps track of points, time, levels, and displays the plaques. Many secondary scripts were created to give each level and minigame its own unique feel. 
