@@ -25,9 +25,9 @@ The game can be played online at [itch.io](https://noahschwartz.itch.io/explorat
 
 ## 🖼 Screenshots
 
-<img width="290" alt="ir_mny" src="https://github.com/NoahBSchwartz/Exploratoria/assets/44248582/325fec35-49bf-4dab-b737-94c87b751834">
-<img width="270" alt="+guhXC" src="https://github.com/NoahBSchwartz/Exploratoria/assets/44248582/31b8518a-00c3-468c-a2f0-17c6361e4898">
-<img width="330" alt="9Bqai_" src="https://github.com/NoahBSchwartz/Exploratoria/assets/44248582/22b5c6ea-d1a0-48dc-8a5d-f7c99b791609">
+<img width="260" alt="ir_mny" src="https://github.com/NoahBSchwartz/Exploratoria/assets/44248582/325fec35-49bf-4dab-b737-94c87b751834">
+<img width="240" alt="+guhXC" src="https://github.com/NoahBSchwartz/Exploratoria/assets/44248582/31b8518a-00c3-468c-a2f0-17c6361e4898">
+<img width="290" alt="9Bqai_" src="https://github.com/NoahBSchwartz/Exploratoria/assets/44248582/22b5c6ea-d1a0-48dc-8a5d-f7c99b791609">
 
 
 ## 👥 Contributors
