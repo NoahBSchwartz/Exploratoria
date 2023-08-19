@@ -5,13 +5,13 @@ Exploratoria is a 2D top-down experience that takes inspiration from museums to 
 
 ## 🛠 Code Structure
 
-Code for the game was built around the `"levelMovement"` script, which is found at: Assets/Scripts/MainScripts/LevelMovement.cs
+Code for the game was built around the `"LevelMovement"` script, which is found at: Assets/Scripts/MainScripts/LevelMovement.cs
 
 This script keeps track of:
 - Points
 - Time
 - Levels
-- Displays the plaques
+- Plaques
 
 Many secondary scripts were created to give each level and minigame its own unique feel.
 
