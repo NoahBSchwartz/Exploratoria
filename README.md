@@ -1,12 +1,11 @@
 # Exploratoria 
 
 ## 🏆 Introduction
-  Exploratoria is a 2D top-down experience that takes inspiration from museums to provide an enjoyable learning experience. Through the use of a 16-bit art style, we incorporated the feeling of playing an actual arcade machine into a modern game. It won first place at the Colorado Technology Student Association competition!
+Exploratoria is a 2D top-down experience that takes inspiration from museums to provide an enjoyable learning experience. Through the use of a 16-bit art style, we incorporated the feeling of playing an actual arcade machine into a modern game. It won first place at the Colorado Technology Student Association competition!
 
 ## 🛠 Code Structure
 
 Code for the game was built around the `"levelMovement"` script, which is found at: Assets/Scripts/MainScripts/LevelMovement.cs
-
 
 This script keeps track of:
 - Points
@@ -18,8 +17,11 @@ Many secondary scripts were created to give each level and minigame its own uniq
 
 ## 🎮 How to Play
 
-The game can be played online at: [Exploratoria on itch.io](https://noahschwartz.itch.io/exploratoria).
-(Add a section here detailing the controls, rules, and how to navigate through the game.)
+The game can be played online at [itch.io](https://noahschwartz.itch.io/exploratoria).
+- WASD or Arrow Keys move the player forward, left, back, and right. 
+- The space bar lets players enter arcade games, launch rockets, and mine in the game. 
+- The arcade game or event in a room must be played to move on.
+
 
 ## 🖼 Screenshots
 
