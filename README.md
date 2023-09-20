@@ -1,7 +1,7 @@
 # Exploratoria 
 
 ## 🏆 Introduction
-Exploratoria is a 2D top-down experience that takes inspiration from museums to provide an enjoyable learning experience. Through the use of a 16-bit art style, we incorporated the feeling of playing an actual arcade machine into a modern game. It won first place at the Colorado Technology Student Association competition!
+Exploratoria is a 2D top-down experience that takes inspiration from museums to provide an enjoyable learning experience. Through the use of a 16-bit art style, we incorporated the feeling of playing an actual arcade machine into a modern game. It won first place at the Colorado Technology Student Association competition.
 
 ## 🛠 Code Structure
 
