@@ -23,7 +23,7 @@ The game can be played online at [itch.io](https://noahschwartz.itch.io/explorat
 - The arcade game or event in a room must be played to move on.
 
 
-## 🖼 Screenshots
+## 🖼 Snapshots
 
 <img width="260" alt="ir_mny" src="https://github.com/NoahBSchwartz/Exploratoria/assets/44248582/325fec35-49bf-4dab-b737-94c87b751834">
 <img width="240" alt="+guhXC" src="https://github.com/NoahBSchwartz/Exploratoria/assets/44248582/31b8518a-00c3-468c-a2f0-17c6361e4898">
